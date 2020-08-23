@@ -4,15 +4,15 @@
 O principal objetivo desse repositorio é treina a aplicação simple de node no back-end.
 
 ## Topicos abordados
-
-| Assuntos     |   
+| Assuntos  |    |
 | ------------------- | ------------------- |
-|  Criando uma estrutua API   |
-|  Entedendo query e roue params |   
-|  Trabalhando com insomnia |   
-|  Ultilizando o nodemon |   
-|  Criando a CRUD |  
-|  Trabalhando com Middlewares | 
+|  Criando uma estrutua API |  ok  |
+|  Entedendo query e roue params |  ok |
+|  Trabalhando com insomnia |  ok |
+|  Ultilizando o nodemon |  ok |
+|  Criando a CRUD |  ok |
+|  Trabalhando com Middlewares | ok  |
+|
 
 ## Conclusão
 
